@@ -9,6 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    class Course: NSObject {
+        var name:String = ""
+        var instructor:String = ""
+    }
+    
+  //  var CAP
+    
+  //  var CEN
+    
+  //  var CIS
+    
+  //  var COP
 
     override func viewDidLoad() {
         super.viewDidLoad()
