@@ -41,7 +41,7 @@ class ViewController: UITableViewController {
             return "CAP Courses"
         }else if(section == 1){
             return "CEN Courses"
-        }else if(section == 2){
+        }else if(section == 2){ 
             return "CIS Courses"
         }else{
             return "COP Courses"
